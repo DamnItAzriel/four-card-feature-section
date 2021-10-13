@@ -37,12 +37,15 @@ p {
     padding-left: 12.5px; */
 }
 img {
-    position: relative;
+    /* position: relative;
     top: 0px;
-    left: 161px;
+    left: 161px; */
+    float: right;
+
 }
 #super,#team,#calcu, #karma {
     /* width: 250px; */
+    height: 200px;
     background-color: white;
     margin: 25px 0px 25px 0px;
     padding: 0px 25px 15px 25px;
@@ -74,3 +77,46 @@ div h3 {
 
 
 
+@media only screen and ( min-width:1080px) {
+   body {
+    /* width: 960px; */
+    width: 1000px;
+   }
+   #header {
+    /* text-align: center; */
+    /* margin: auto; */
+    margin: 100px auto 25px auto;
+   }
+   h4 {
+       font-size: 32px;
+       /* margin: auto; */
+       margin-bottom: 15px;
+       line-height: 125%;
+       text-align: center;
+   }
+   #p1 {
+       width: 400px;
+       text-align: center;
+       margin: auto;
+   }
+   #content{
+       overflow: auto;
+   }
+   #super, #calcu, #team, #karma {
+       width: 250px;
+   }
+
+   #super, #teka, #calcu {
+       float: left;margin-right: 16.67px;margin-left: 16.67px;
+   }
+   #calcu{
+       margin-bottom: 0px;
+   }
+   div footer{
+       margin-top: 25px;
+       font-size: larger;
+   }
+   #super, #calcu{
+       margin-top: 125px;
+   }
+}
