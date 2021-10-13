@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Frontend Mentor Four card feature section.png)
+![](./frontend-mentor-four-card-feature-section.png)
 
 
 ### Links
@@ -57,7 +57,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Will add this soon!
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DamnItAzriel)
-- Twitter - [@yourusername](https://twitter.com/DamnItAzriel)
+- Website - [Pankaj Pawar] Will add this soon!(https://www.your-site.com)
+- Frontend Mentor - [@DamnItAzriel](https://www.frontendmentor.io/profile/DamnItAzriel)
+- Twitter - [@DamnItAzriel](https://twitter.com/DamnItAzriel)
